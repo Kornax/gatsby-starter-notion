@@ -11,7 +11,7 @@ module.exports = {
         sourceConfig: [
           {
             name: 'posts',
-            table: 'https://www.notion.so/ernestoabreu/b219a65c05c54100bf056d16ae61a383?v=d1117b9c0d624d1a89771c09f6a48e5b',
+            table: 'https://www.notion.so/4b50defc60ce4e89a6539f511d9d946f?v=8e71dde4479040b5a3e6ca0d91d3d8e6',
             cacheType: 'html'
           },
           {
