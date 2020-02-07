@@ -11,12 +11,12 @@ module.exports = {
         sourceConfig: [
           {
             name: 'posts',
-            table: 'https://www.notion.so/ernestoabreu/98b3b387913648bdaa37053e4eb0127f?v=fe3da1bc9a7f4b1383b45013b6c67ae3',
+            table: 'https://www.notion.so/4b50defc60ce4e89a6539f511d9d946f?v=8e71dde4479040b5a3e6ca0d91d3d8e6',
             cacheType: 'html'
           },
           {
             name: 'books',
-            table: 'https://www.notion.so/ernestoabreu/4b4d610d22024751a11ea4d1b24a9ff8?v=aa3cb693469e44c59ded12505bb886ce',
+            table: 'https://www.notion.so/4ae9328e650945eb9adbd882b3b453d3?v=0966bdbd0645437cbcc62e6a933e241c',
             cacheType: 'static'
           }
         ]
