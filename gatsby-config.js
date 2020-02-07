@@ -14,6 +14,11 @@ module.exports = {
             table: 'https://www.notion.so/ernestoabreu/98b3b387913648bdaa37053e4eb0127f?v=fe3da1bc9a7f4b1383b45013b6c67ae3',
             cacheType: 'html'
           },
+          {
+            name: 'books',
+            table: 'https://www.notion.so/ernestoabreu/4b4d610d22024751a11ea4d1b24a9ff8?v=aa3cb693469e44c59ded12505bb886ce',
+            cacheType: 'static'
+          }
         ]
       }
     },
