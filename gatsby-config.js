@@ -13,11 +13,6 @@ module.exports = {
             name: 'posts',
             table: 'https://www.notion.so/ernestoabreu/1d8ef6dee57747ba96fa0d14f270a8ba?v=429278bba81945529218afa9fa08e326',
             cacheType: 'html'
-          },
-          {
-            name: 'books',
-            table: 'https://www.notion.so/4ae9328e650945eb9adbd882b3b453d3?v=0966bdbd0645437cbcc62e6a933e241c',
-            cacheType: 'static'
           }
         ]
       }
